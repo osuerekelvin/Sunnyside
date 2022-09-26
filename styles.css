@@ -117,8 +117,10 @@ footer{
     height: 300px;
 }
 .finaldiv{
-    margin-left: 43%;
-    margin-top: 5%;
+    margin: 0 auto;
+    text-align: center;
+    /* margin-left: 43%; */
+    /* margin-top: 5%; */
 }
 
 .lastdiv1{
@@ -817,4 +819,5 @@ footer{
     background-color: #82c7b8;
     height: 200px;
 }
+
 }
